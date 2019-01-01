@@ -1,0 +1,179 @@
+Nom : ALFA-ROMEO-GIULIETTA-VELOCE
+Puissance-moteur : 240 ch max
+Couple-moteur : 340 Nm max
+Poids : 1320 kg min
+Acceleration : 6.0 s min
+Prix : 35600 eur min
+Pollution : 163 g/km min 
+Présentation : 4 max
+Chassis : 3 max
+
+Nom : AUDI-S3
+Puissance-moteur : 310 ch max
+Couple-moteur : 380 Nm max
+Poids : 1425 kg min
+Acceleration : 5.2 s min
+Prix : 50000 eur min
+Pollution : 162 g/km min 
+Présentation : 5 max
+Chassis : 4 max
+
+Nom : AUDI-RS3
+Puissance-moteur : 367 ch max
+Couple-moteur : 465 Nm max
+Poids : 1425 kg min
+Acceleration : 4.3 s min
+Prix : 57900 eur min
+Pollution : 189 g/km min 
+Présentation : 5 max
+Chassis : 4 max
+
+Nom : BMW-M140I
+Puissance-moteur : 340 ch max
+Couple-moteur : 500 Nm max
+Poids : 1450 kg min
+Acceleration : 4.8 s min
+Prix : 45600 eur min
+Pollution : 179 g/km min 
+Présentation : 5 max 
+Chassis : 4 max
+
+Nom : FORD-FOCUS-ST
+Puissance-moteur : 250 ch max
+Couple-moteur : 360 Nm max
+Poids : 1362 kg min
+Acceleration : 6.5 s min
+Prix : 29200 eur min
+Pollution : 159 g/km min 
+Présentation : 3 max 
+Chassis : 4 max
+
+Nom : FORD-FOCUS-RS-350
+Puissance-moteur : 350 ch max
+Couple-moteur : 440 Nm max
+Poids : 1524 kg min
+Acceleration : 4.7 s min
+Prix : 39600 eur min
+Pollution : 175 g/km min 
+Présentation : 4 max 
+Chassis : 5 max
+
+Nom : KIA-PRO-CEED-GT
+Puissance-moteur : 204 ch max
+Couple-moteur : 265 Nm max
+Poids : 1359 kg min
+Acceleration : 7.7 s min
+Prix : 29290 eur min
+Pollution : 170 g/km min 
+Présentation : 3 max
+Chassis : 2 max
+
+Nom : MERCEDES-A45-AMG
+Puissance-moteur : 381 ch max
+Couple-moteur : 475 Nm max
+Poids : 1480 kg min
+Acceleration : 4.2 s min
+Prix : 55350 eur min
+Pollution : 162 g/km min 
+Présentation : 5 max
+Chassis : 5 max
+
+Nom : MINI-CLUBMAN-COOPER-S
+Puissance-moteur : 192 ch max
+Couple-moteur : 280 Nm max
+Poids : 1360 kg min
+Acceleration : 7.2 s min
+Prix : 29800 eur min
+Pollution : 147 g/km min 
+Présentation : 4 max
+Chassis : 4 max
+
+Nom : PEUGEOT-308-GT
+Puissance-moteur : 205 ch max
+Couple-moteur : 285 Nm max
+Poids : 1200 kg min
+Acceleration : 7.5 s min
+Prix : 31350 eur min
+Pollution : 130 g/km min 
+Présentation : 4 max
+Chassis : 4 max
+
+Nom : PEUGEOT-308-GTI
+Puissance-moteur : 270 ch max
+Couple-moteur : 330 Nm max
+Poids : 1205 kg min
+Acceleration : 6 s min
+Prix : 37700 eur min
+Pollution : 139 g/km min 
+Présentation : 4 max 
+Chassis : 5 max
+
+Nom : RENAULT-MEGANE-4-GT
+Puissance-moteur : 205 ch max
+Couple-moteur : 280 Nm max
+Poids : 1392 kg min
+Acceleration : 7.1 s min
+Prix : 32200 eur min
+Pollution : 134 g/km min 
+Présentation : 4 max 
+Chassis : 4 max
+
+Nom : SEAT-LEON-FR
+Puissance-moteur : 184 ch max
+Couple-moteur : 380 Nm max
+Poids : 1295 kg min
+Acceleration : 7.5 s min
+Prix : 29720 eur min
+Pollution : 113 g/km min 
+Présentation : 3 max
+Chassis : 3 max
+
+Nom : SEAT-LEON-CUPRA
+Puissance-moteur : 300 ch max
+Couple-moteur : 380 Nm max
+Poids : 1375 kg min
+Acceleration : 5.7 s min
+Prix : 35000 eur min
+Pollution : 149 g/km min 
+Présentation : 4 max 
+Chassis : 4 max
+
+Nom : VOLKSWAGEN-GOLF-GTD
+Puissance-moteur : 184 ch max
+Couple-moteur : 380 Nm max
+Poids : 1475 kg min
+Acceleration : 7.9 s min
+Prix : 36570 eur min
+Pollution : 115 g/km min 
+Présentation : 3 max 
+Chassis : 3 max
+
+Nom : VOLKSWAGEN-GOLF-GTE
+Puissance-moteur : 204 ch max
+Couple-moteur : 350 Nm max
+Poids : 1524 kg min
+Acceleration : 7.6 s min
+Prix : 38.990 eur min
+Pollution : 35 g/km min 
+Présentation : 4 max 
+Chassis  2 max
+
+Nom : VOLKSWAGEN-GOLF-GTI
+Puissance-moteur : 237 ch max
+Couple-moteur : 380 Nm max
+Poids : 1307 kg min
+Acceleration : 6.4 s min
+Prix : 34530 eur min
+Pollution : 147 g/km min 
+Présentation : 5 max
+Chassis : 4 max
+
+Nom : VOLKSWAGEN-GOLF-R
+Puissance-moteur : 310 ch max
+Couple-moteur : 380 Nm max
+Poids : 1401 kg min
+Acceleration : 5.1 s min
+Prix : 43980 eur min
+Pollution : 180 g/km min 
+Présentation : 5 max
+Chassis : 4 max

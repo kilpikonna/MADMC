@@ -1,0 +1,149 @@
+Nom : ALFA-ROMEO-MITO-VELOCE
+Puissance-moteur : 170 ch max
+Couple-moteur : 250 Nm max
+Poids : 1145 kg min
+Acceleration : 7.3 s min
+Prix : 25890 eur min
+Pollution : 124 g/km min 
+Présentation : 4 max
+Chassis : 3 max
+
+Nom : AUDI-S-QUATTRO
+Puissance-moteur : 231 ch max
+Couple-moteur : 370 Nm max
+Poids : 1315 kg min
+Acceleration : 5.8 s min
+Prix : 35590 eur min
+Pollution : 166 g/km min 
+Présentation : 5 max
+Chassis : 5 max
+
+Nom : ABARTH-595
+Puissance-moteur : 145 ch max
+Couple-moteur : 206 Nm max
+Poids : 1035 kg min
+Acceleration : 7.8 s min
+Prix : 18600 eur min
+Pollution : 139 g/km min 
+Présentation : 4 max
+Chassis : 3 max
+
+Nom : FORD-FIESTA-ECOBOOST
+Puissance-moteur : 140 ch max
+Couple-moteur : 210 Nm max
+Poids : 1128 kg min
+Acceleration : 9 s min
+Prix : 18800 eur min
+Pollution : 104 g/km min 
+Présentation : 3 max
+Chassis : 4 max
+
+Nom : FORD-FIESTA-ST
+Puissance-moteur : 182 ch max
+Couple-moteur : 240 Nm max
+Poids : 1163 kg min
+Acceleration : 6.9 s min
+Prix : 24950 eur min
+Pollution : 138 g/km min 
+Présentation : 3 max
+Chassis : 4 max
+
+Nom : MINI-COOPER-S
+Puissance-moteur : 192 ch max
+Couple-moteur : 280 Nm max
+Poids : 1160 kg min
+Acceleration : 6.8 s min
+Prix : 25600 eur min
+Pollution : 134.5 g/km min 
+Présentation : 4 max
+Chassis : 4 max
+
+Nom : MINI-COOPER-S-JCW
+Puissance-moteur : 231 ch max
+Couple-moteur : 320 Nm max
+Poids : 1205 kg min
+Acceleration : 6.3 s min
+Prix : 32550 eur min
+Pollution : 155 g/km min 
+Présentation : 5 max
+Chassis : 5 max
+
+Nom : OPEL-ADAM-S
+Puissance-moteur : 150 ch max
+Couple-moteur : 220 Nm max
+Poids : 1103 kg min
+Acceleration : 8.5 s min
+Prix : 19000 eur min
+Pollution : 139 g/km min 
+Présentation : 3 max
+Chassis : 3 max
+
+Nom : OPEL-CORSA-E-OPC
+Puissance-moteur : 207 ch max
+Couple-moteur : 280 Nm max
+Poids : 1218 kg min
+Acceleration : 6.8 s min
+Prix : 23900 eur min
+Pollution : 174 g/km min 
+Présentation : 3 max
+Chassis : 5 max
+
+Nom : PEUGEOT-208-GTI
+Puissance-moteur : 208 ch max
+Couple-moteur : 300 Nm max
+Poids : 1160 kg min
+Acceleration : 6.5 s min
+Prix : 26000 eur min
+Pollution : 125 g/km min 
+Présentation : 4 max
+Chassis : 3 max
+
+Nom : RENAULT-CLIO-4-RS
+Puissance-moteur : 200 ch max
+Couple-moteur : 240 Nm max
+Poids : 1204 kg min
+Acceleration : 6.7 s min
+Prix : 28100 eur min
+Pollution : 133 g/km min 
+Présentation : 3 max
+Chassis : 4 max
+
+Nom : SEAT-IBIZA-CUPRA
+Puissance-moteur : 192 ch max
+Couple-moteur : 320 Nm max
+Poids : 1269 kg min
+Acceleration : 6.7 s min
+Prix : 22870 eur min
+Pollution : 139 g/km min 
+Présentation : 3 max
+Chassis : 3 max
+
+Nom : SUZUKI-SWIFT-SPORT
+Puissance-moteur : 136 ch max
+Couple-moteur : 160 Nm max
+Poids : 1040 kg min
+Acceleration : 8.7 s min
+Prix : 15680 eur min
+Pollution : 147 g/km min 
+Présentation : 3 max
+Chassis : 5 max
+
+Nom : VOLKSWAGEN-POLO-BLUEGT
+Puissance-moteur : 150 ch max
+Couple-moteur : 250 Nm max
+Poids : 1212 kg min
+Acceleration : 7.9 s min
+Prix : 23620 eur min
+Pollution : 110 g/km min 
+Présentation : 4 max
+Chassis : 3 max
+
+Nom : VOLKSWAGEN-POLO-GTI
+Puissance-moteur : 192 ch max
+Couple-moteur : 320 Nm max
+Poids : 1269 kg min
+Acceleration : 6.7 s min
+Prix : 26900 eur min
+Pollution : 139 g/km min 
+Présentation : 4 max
+Chassis  3 max
